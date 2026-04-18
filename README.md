@@ -1,4 +1,4 @@
-# 🚀 Claude Engineering Playbook
+# 🚀 Prompt Engineering Playbook
 
 <p align="left">
   <!-- Repo Stats -->
