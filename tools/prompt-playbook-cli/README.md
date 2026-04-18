@@ -1,6 +1,6 @@
 # prompt-playbook-cli
 
-An interactive CLI for the [Prompt Engineering Playbook](../../README.md). Select a prompt template and it's instantly copied to your clipboard — ready to paste into Claude.
+An interactive CLI for the [Prompt Engineering Playbook](../../README.md). Select a prompt template and it's instantly copied to your clipboard — ready to paste into any AI tool.
 
 ## Installation
 
