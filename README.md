@@ -1,4 +1,5 @@
 # 🚀 Claude Engineering Playbook
+<img src="https://komarev.com/ghpvc/?username=cashidev&style=for-the-badge" />
 
 > **Production-ready patterns for using AI (Claude) in real software engineering workflows.**
 > Not theory. Not fluff. Just practical, reusable techniques.
