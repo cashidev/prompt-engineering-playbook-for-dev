@@ -197,11 +197,12 @@ Code:
 
 ---
 
-## 🛠️ Tools & Integrations (Coming Soon)
+## 🛠️ Tools & Integrations
 
-* CLI for Claude-assisted workflows
-* Git hooks for automated code review
-* PR assistant for better reviews
+* CLI for Claude-assisted workflows ✅
+* Git hooks for automated code review 🚧
+* PR assistant for better reviews 🚧
+
 
 ---
 
